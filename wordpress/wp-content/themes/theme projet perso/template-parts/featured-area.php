@@ -18,7 +18,9 @@ $emtpy_cta = ( empty( $responsive_options['cta_text'] ) ) ? false : true;
 
 	<div id="featured-content" class="grid col-940">
 
+		<div id="titres" class="grid col-620">
 		<h1 class="featured-title">
+		
 			<?php
 			if( isset( $responsive_options['home_headline'] ) && $db && $empty )
 				echo $responsive_options['home_headline'];
@@ -36,25 +38,32 @@ $emtpy_cta = ( empty( $responsive_options['cta_text'] ) ) ? false : true;
 				_e( 'Your H2 subheadline here', 'responsive' );
 			?>
 		</h2>
-
+		</div><!-- end of .col-460 -->
+		<div id="logo">
+			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_56802818.jpg">
+		</div>
+		<div id="presentation" class="grid col-940">
 		<?php
 		if ( isset( $responsive_options['home_content_area'] ) && $db && $empty ) {
 			echo do_shortcode( wpautop( $responsive_options['home_content_area'] ) );
 		} else {
 			echo '<p>' . __( 'Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.', 'responsive' ) . '</p>';
 		} ?>
-		<div>
-			<hr>
-			<br>
+		</div>
+		<div id="contenu">
+		<div id="boutique">
+			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_53234455.jpg">
+		</div>
 			<p id="souhait">Vous souhaitez:</p>
+			<div id="souhait_site">
 				<ul>
 					<li>Un site vitrine pour promouvoir votre activité</li>
 					<li>Un site marchand</li>
 					<li>La refonte d'un site existant</li>
 					<li>Un logo où une charte graphique</li>
 				</ul>
+			</div>
 		</div>
-		<br>
 		<hr>
 		<div>
 			<P>Je vous propose de vous accompagner dans la mise en place de votre projet, ma mission est de vous de vous conseiller afin de vous apporter la solution la plus performante et la plus adaptée à vos besoins.</p>

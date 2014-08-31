@@ -1040,6 +1040,7 @@ form div {
 	margin: 0;
 	padding-top: 40px;
 	text-align: center;
+
 }
 
 .featured-subtitle {
@@ -2835,4 +2836,26 @@ BDO[DIR="rtl"] {
 #git{
 	margin-left: 15%;
 	margin-top: -8%;
+}
+
+#logo img{
+	margin-top: 3%;
+}
+
+#souhait_site {
+	font-size: 18px;
+	float: right;
+	width: 540px;
+	margin-top: -5.5%;
+}
+#souhait{
+	margin-top: 3%;
+	margin-left: -5%;
+}
+
+#boutique{
+	float: left;
+	margin-right: 5%;
+	margin-left: 1%;
+	margin-bottom: 15px;
 }
