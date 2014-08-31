@@ -52,7 +52,7 @@ $emtpy_cta = ( empty( $responsive_options['cta_text'] ) ) ? false : true;
 		</div>
 		<div id="contenu">
 		<div id="boutique">
-			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_62015372.jpg">
+			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_62015372.png">
 		</div>
 			<div id="souhait_site">
 				<ul>
