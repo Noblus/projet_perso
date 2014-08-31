@@ -40,7 +40,7 @@ $emtpy_cta = ( empty( $responsive_options['cta_text'] ) ) ? false : true;
 		</h2>
 		</div><!-- end of .col-460 -->
 		<div id="logo">
-			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_59485097.jpg">
+			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_59485097(test).png">
 		</div>
 		<div id="presentation" class="grid col-940">
 		<?php
@@ -52,11 +52,11 @@ $emtpy_cta = ( empty( $responsive_options['cta_text'] ) ) ? false : true;
 		</div>
 		<div id="contenu">
 		<div id="boutique">
-			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_53234455.jpg">
+			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_62015372.jpg">
 		</div>
-			<p id="souhait">Vous souhaitez:</p>
 			<div id="souhait_site">
 				<ul>
+					<dt>Vous souhaitez:</dt>
 					<li>Un site vitrine pour promouvoir votre activité</li>
 					<li>Un site marchand</li>
 					<li>La refonte d'un site existant</li>
