@@ -40,7 +40,7 @@ $emtpy_cta = ( empty( $responsive_options['cta_text'] ) ) ? false : true;
 		</h2>
 		</div><!-- end of .col-460 -->
 		<div id="logo">
-			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_56802818.jpg">
+			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_59485097.jpg">
 		</div>
 		<div id="presentation" class="grid col-940">
 		<?php
