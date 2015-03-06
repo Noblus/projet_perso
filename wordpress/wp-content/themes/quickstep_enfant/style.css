@@ -1,0 +1,48 @@
+/*
+Theme Name: quickstep_enfant
+Description: Thème enfant pour quickstep
+Author: François
+Template: quickstep
+*/
+@import url("../quickstep/style.css");
+
+
+/*Css Feature cv et competances*/
+
+.entry-content h3 {
+	color:#008ACA;
+	font-weight: 700;
+	font-size: 22px;
+}
+
+#container-567{
+	padding-bottom: 0;
+	padding-top: 0;
+	margin: -30px 0px 5px;
+}
+/*Css A propos de moi*/
+
+#container-182 {
+	padding: 30px;
+}
+
+#container-182 header{
+	margin: 0px 0px 5px;
+}
+
+#container-182 h2{
+	color:#008ACA;
+	margin: -8px 0px 3px;
+}
+
+#team-container{
+	margin:0;
+}
+
+#portfolio-container {
+	margin: 0px 0px 40px;
+}
+
+.portfolio3c .isotope-item{
+	margin-right: 15px;
+}

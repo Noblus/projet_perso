@@ -13,7 +13,6 @@ $empty     = ( empty( $responsive_options['home_headline'] ) && empty( $responsi
 $emtpy_cta = ( empty( $responsive_options['cta_text'] ) ) ? false : true;
 
 ?>
-
 <div id="featured" class="grid col-940">
 
 	<div id="featured-content" class="grid col-940">
@@ -40,7 +39,7 @@ $emtpy_cta = ( empty( $responsive_options['cta_text'] ) ) ? false : true;
 		</h2>
 		</div><!-- end of .col-460 -->
 		<div id="logo">
-			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_59485097(test).png">
+			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/Fotolia_59485097_XS.png">
 		</div>
 		<div id="presentation" class="grid col-940">
 		<?php
@@ -52,11 +51,12 @@ $emtpy_cta = ( empty( $responsive_options['cta_text'] ) ) ? false : true;
 		</div>
 		<div id="contenu">
 		<div id="boutique">
-			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/fotolia_62015372.png">
+			<img src="http://localhost/GitHub/projet_perso/wordpress/wp-content/images/Fotolia_62015372_XS.png">
 		</div>
 			<div id="souhait_site">
 				<ul>
 					<dt>Vous souhaitez:</dt>
+					<br>
 					<li>Un site vitrine pour promouvoir votre activité</li>
 					<li>Un site marchand</li>
 					<li>La refonte d'un site existant</li>
@@ -66,7 +66,7 @@ $emtpy_cta = ( empty( $responsive_options['cta_text'] ) ) ? false : true;
 		</div>
 		<hr>
 		<div>
-			<P>Je vous propose de vous accompagner dans la mise en place de votre projet, ma mission est de vous de vous conseiller afin de vous apporter la solution la plus performante et la plus adaptée à vos besoins.</p>
+			<P>Je vous propose de vous accompagner dans la mise en place de votre projet, ma mission est de vous conseiller afin de vous apporter la solution la plus performante et la plus adaptée à vos besoins.</p>
 
 <p>Débutant mon activitée, je propose également des tarifs très avantageux, ce qui vous permettra d'obtenir une prestation de qualité professionnelle à moindre coût.
 
